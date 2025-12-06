@@ -1,4 +1,5 @@
 return {
+enabled  = false,
   "folke/tokyonight.nvim",
   lazy = false,
   priority = 1000,
