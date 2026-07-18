@@ -5,5 +5,14 @@
 - **Resource Monitor:** [Btop](https://github.com/aristocratos/btop)
 - **GNOME extensions:** Blur My Shell, Just Perfection
 
+# Other Apps
+- **Builder**
+- **LocalSend**
+- **Mpv Media Player**
+- **Cloudflare One**
+- **Lutris**
+- **Gapless**
+- 
+
 # Retired
 - **Theme:** [Catppuccin](https://github.com/catppuccin/catppuccin)
