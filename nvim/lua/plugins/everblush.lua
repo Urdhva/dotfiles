@@ -1,5 +1,6 @@
 return {
 	"Everblush/nvim",
+    enabled = false,
 	name = "everblush",
 	lazy = false,
 	priority = 1000,
