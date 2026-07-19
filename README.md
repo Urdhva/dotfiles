@@ -20,6 +20,7 @@ This will be a mostly stagnant, but everchanging repository.
 
 # GNOME extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [Battery Health Charging](https://extensions.gnome.org/extension/5724/battery-health-charging/)
 
 # Retired
 - Theme: [Everblush](https://github.com/Everblush/everblush)
