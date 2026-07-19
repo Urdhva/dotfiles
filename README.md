@@ -3,20 +3,23 @@ This started out as a simple repository to store dotfiles for three main program
 This will be a mostly stagnant, but everchanging repository. 
 
 # Dotfiles
-- **Terminal:** [Kitty](https://github.com/kovidgoyal/kitty)
-- **Text Editor:** [Neovim](https://github.com/neovim/neovim)
-- **Theme:** [Catppuccin](https://github.com/catppuccin/catppuccin)
-- **Resource Monitor:** [Btop](https://github.com/aristocratos/btop)
-- **GNOME extensions:** Blur My Shell, Just Perfection
+- Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
+- Text Editor: [Neovim](https://github.com/neovim/neovim)
+- Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
+- Resource Monitor: [Btop](https://github.com/aristocratos/btop)
+- GNOME extensions: Blur My Shell, Just Perfection
 
 # Other apps I use
-- **Builder**
-- **LocalSend**
-- **Mpv Media Player**
-- **Cloudflare One**
-- **Lutris**
-- **Gapless**
-- **Simple Note**
+- Builder
+- LocalSend
+- Mpv Media Player
+- Cloudflare One
+- Lutris
+- Gapless
+- Simple Note
+
+# GNOME extensions
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 
 # Retired
-- **Theme:** [Everblush](https://github.com/Everblush/everblush)
+- Theme: [Everblush](https://github.com/Everblush/everblush)
